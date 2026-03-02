@@ -1,7 +1,7 @@
-# Console.WriteLine("Seu Nome Aqui 👋");
+# Console.WriteLine("Anny Gabrielly👨‍💻");
 
 - 💼 Atualmente trabalhando como **Analista de Software** em **NTT DATA**.
-- 💡 Apaixonada por tecnologia e sempre buscando evoluir.
+- 💡 Totalmente apaixonada por tecnologia e sempre buscando evoluir.
 
 ---
 
