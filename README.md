@@ -18,10 +18,11 @@
 
 ### 🌐 Redes Sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_SEU_INSTA)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annygabrielly/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annydev_)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devv.anny?_r=1&_t=ZS-97fwrN9BzhS)
 
 ---
 
 📫 **Contato:** annygabbyoficial@gmail.com
+Portfólio: https://portfolioanny.vercel.app/
